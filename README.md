@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MartindIT/azure-network-protocols)
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure VMs](https://github.com/MartindIT/install-config-AD)
-  - [Understanding and Building intution for DNS](https://github.com/MartindIT/post-install-config)
+  - [Understanding and Building intution for DNS](https://github.com/MartindIT/understand-dns)
   - [Network Fileshare and Permissions in Active Directory](https://github.com/MartindIT/ticket-lifecycle)
 - <b>Virtual Private Network (VPN)</b>
   - [Understanding and Using a VPN to Change Locations  ](https://github.com/MartindIT/configure-ad)
