@@ -9,7 +9,13 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MartindIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MartindIT/azure-network-protocols)
-
+- <b>Active Directory</b>
+  - [Installing and Configuring Active Directory within Azure VMs](https://github.com/MartindIT/osticket-prereqs)
+  - [Understanding and Building intution for DNS](https://github.com/MartindIT/post-install-config)
+  - [Network Fileshare and Permissions in Active Directory](https://github.com/MartindIT/ticket-lifecycle)
+- <b>Virtual Private Network (VPN)</b>
+  - [Understanding and Using a VPN to Change Locations  ](https://github.com/MartindIT/configure-ad)
+  
 <h2>🤳Connect with me:</h2>
 
 
