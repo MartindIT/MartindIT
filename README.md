@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/martin-domingo-martin-547b612a1/
+[linkedin]: https://linkedin.com/in/martin-domingo-martin
