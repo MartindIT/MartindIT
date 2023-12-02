@@ -14,7 +14,7 @@
   - [Understanding and Building intution for DNS](https://github.com/MartindIT/understand-dns)
   - [Network Fileshare and Permissions in Active Directory](https://github.com/MartindIT/network-fileshare)
 - <b>Virtual Private Network (VPN)</b>
-  - [Understanding and Using a VPN to Change Locations  ](https://github.com/MartindIT/configure-ad)
+  - [Understanding and Using a VPN to Change Locations  ](https://github.com/MartindIT/vpn)
   
 <h2>🤳Connect with me:</h2>
 
