@@ -10,7 +10,7 @@
   - [Understanding How to Use and Create Azure VMs](https://github.com/MartindIT/basics-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MartindIT/azure-network-protocols)
 - <b>Active Directory</b>
-  - [Installing and Configuring Active Directory within Azure VMs](https://github.com/MartindIT/install-config-AD)
+  - [Installing and Configuring Active Directory and Creating Users within Azure VMs](https://github.com/MartindIT/install-config-AD)
   - [Understanding and Building intution for DNS](https://github.com/MartindIT/understand-dns)
   - [Network Fileshare and Permissions in Active Directory](https://github.com/MartindIT/network-fileshare)
 - <b>Virtual Private Network (VPN)</b>
