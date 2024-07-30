@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory within VMware Workstation (Video Projects)</b>
+  - [Configuring Active Directory within VMware](https://github.com/MartindIT/IT-project-vids)
+  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MartindIT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MartindIT/post-install-config)
@@ -9,7 +12,7 @@
 - <b>Microsoft Azure</b>
   - [Understanding How to Use and Create Azure VMs](https://github.com/MartindIT/basics-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MartindIT/azure-network-protocols)
-- <b>Active Directory</b>
+- <b>Active Directory within Azure VMs</b>
   - [Installing and Configuring Active Directory and Creating Users within Azure VMs](https://github.com/MartindIT/install-config-AD)
   - [Understanding and Building intution for DNS](https://github.com/MartindIT/understand-dns)
   - [Network Fileshare and Permissions in Active Directory](https://github.com/MartindIT/network-fileshare)
