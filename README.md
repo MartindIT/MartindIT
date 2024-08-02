@@ -4,7 +4,7 @@
 
 - <b>Active Directory within VMware Workstation (Video Projects)</b>
   - [Configuring Active Directory within VMware](https://github.com/MartindIT/IT-project-vids)
-  - [Performing Basic IT Tasks Inside Active Directory](https://github.com/MartindIT/IT-project-vids)
+  - [Performing Basic IT Tasks Inside Active Directory](https://github.com/MartindIT/AD-pt.2)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MartindIT/osticket-prereqs)
