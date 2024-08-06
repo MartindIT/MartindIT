@@ -5,7 +5,7 @@
 - <b>Active Directory within VMware Workstation (Video Projects)</b>
   - [Configuring Active Directory within VMware](https://github.com/MartindIT/IT-project-vids)
   - [Performing Basic IT Tasks Inside Active Directory](https://github.com/MartindIT/AD-pt.2)
-  
+  - [Creating Group Policy Management Policies](https://github.com/MartindIT/AD-pt.3)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MartindIT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MartindIT/post-install-config)
