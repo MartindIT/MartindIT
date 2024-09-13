@@ -21,6 +21,8 @@
   - [Network Fileshare and Permissions in Active Directory](https://github.com/MartindIT/network-fileshare)
 - <b>Virtual Private Network (VPN)</b>
   - [Understanding and Using a VPN to Change Locations  ](https://github.com/MartindIT/vpn)
+- <b>Building A PC (Youtube Video)</b>
+  - [Building A Gaming PC ](https://github.com/MartindIT/gamingpc)
   
 <h2>🤳Connect with me:</h2>
 
