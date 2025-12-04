@@ -24,7 +24,7 @@
 - <b>Building A PC (Youtube Video)</b>
   - [Building A Gaming PC ](https://github.com/MartindIT/gamingpc)
 - <b>Wiring Ethernet Cable (Video and Photos)</b>
-  - [Wiring Ethernet Cable and Crimping  ](https://github.com/MartindIT/gamingpc)
+  - [Wiring Ethernet Cable and Crimping  ](https://github.com/MartindIT/Ethernet-cable)
   
 <h2>🤳Connect with me:</h2>
 
