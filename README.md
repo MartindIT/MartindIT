@@ -23,6 +23,8 @@
   - [Understanding and Using a VPN to Change Locations  ](https://github.com/MartindIT/vpn)
 - <b>Building A PC (Youtube Video)</b>
   - [Building A Gaming PC ](https://github.com/MartindIT/gamingpc)
+- <b>Wiring Ethernet Cable (Video and Photos)</b>
+  - [Wiring Ethernet Cable and Crimping  ](https://github.com/MartindIT/gamingpc)
   
 <h2>🤳Connect with me:</h2>
 
